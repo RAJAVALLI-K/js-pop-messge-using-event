@@ -1,0 +1,21 @@
+.hide{
+    display: none;
+}
+button{
+    background-color: deeppink;
+    color:white;
+    padding: 15px;
+    border: 1px solid deeppink;
+    border-radius: 5px;
+}
+p{
+    background-color:teal;
+    box-shadow: 2px 2px 10px 2px #ccc;
+    padding: 15px;
+    border-radius: 10px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
